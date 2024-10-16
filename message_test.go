@@ -12,10 +12,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/segmentio/kafka-go/compress/gzip"
-	"github.com/segmentio/kafka-go/compress/lz4"
-	"github.com/segmentio/kafka-go/compress/snappy"
-	"github.com/segmentio/kafka-go/compress/zstd"
+	"github.com/generalmotors/kafka-go/compress/gzip"
+	"github.com/generalmotors/kafka-go/compress/lz4"
+	"github.com/generalmotors/kafka-go/compress/snappy"
+	"github.com/generalmotors/kafka-go/compress/zstd"
 	"github.com/stretchr/testify/require"
 )
 

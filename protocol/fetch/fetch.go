@@ -3,7 +3,7 @@ package fetch
 import (
 	"fmt"
 
-	"github.com/segmentio/kafka-go/protocol"
+	"github.com/generalmotors/kafka-go/protocol"
 )
 
 func init() {

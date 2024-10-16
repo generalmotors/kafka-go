@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/segmentio/kafka-go/protocol"
+	"github.com/generalmotors/kafka-go/protocol"
 )
 
 var (

@@ -3,8 +3,8 @@ package deleteacls_test
 import (
 	"testing"
 
-	"github.com/segmentio/kafka-go/protocol/deleteacls"
-	"github.com/segmentio/kafka-go/protocol/prototest"
+	"github.com/generalmotors/kafka-go/protocol/deleteacls"
+	"github.com/generalmotors/kafka-go/protocol/prototest"
 )
 
 const (
