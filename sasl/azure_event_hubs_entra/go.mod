@@ -4,6 +4,6 @@ go 1.15
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.14.0
-	github.com/segmentio/kafka-go v0.4.47
+	github.com/generalmotors/kafka-go v0.4.47
 	golang.org/x/net v0.28.0 // indirect
 )
