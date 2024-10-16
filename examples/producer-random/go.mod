@@ -1,4 +1,4 @@
-module github.com/segmentio/kafka-go/example/producer-random
+module github.com/generalmotors/kafka-go/example/producer-random
 
 go 1.15
 

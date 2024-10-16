@@ -1,4 +1,4 @@
-module github.com/segmentio/kafka-go/sasl/aws_msk_iam
+module github.com/generalmotors/kafka-go/sasl/aws_msk_iam
 
 go 1.15
 

@@ -1,4 +1,4 @@
-module github.com/segmentio/kafka-go/example/producer-api
+module github.com/generalmotors/kafka-go/example/producer-api
 
 go 1.15
 

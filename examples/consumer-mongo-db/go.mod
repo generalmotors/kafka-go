@@ -1,4 +1,4 @@
-module github.com/segmentio/kafka-go/example/consumer-mongo-db
+module github.com/generalmotors/kafka-go/example/consumer-mongo-db
 
 go 1.15
 
