@@ -1,4 +1,4 @@
-module github.com/segmentio/kafka-go/example/consumer-logger
+module github.com/generalmotors/kafka-go/example/consumer-logger
 
 go 1.15
 

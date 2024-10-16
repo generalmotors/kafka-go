@@ -1,4 +1,4 @@
-module github.com/segmentio/kafka-go/sasl/azure_event_hubs_entra
+module github.com/generalmotors/kafka-go/sasl/azure_event_hubs_entra
 
 go 1.15
 
