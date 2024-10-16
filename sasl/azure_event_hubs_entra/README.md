@@ -9,7 +9,7 @@ for Event Hub users.
 
 You can add this module to your dependencies by running the command below:
 ```shell
-go get github.com/segmentio/kafka-go/sasl/azure_event_hubs_entra
+go get github.com/generalmotors/kafka-go/sasl/azure_event_hubs_entra
 ```
 
 To connect to Event Hub with Kafka protocol:
