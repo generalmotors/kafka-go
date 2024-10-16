@@ -4,8 +4,8 @@
 package gzip
 
 import (
+	"github.com/generalmotors/kafka-go/compress/gzip"
 	gz "github.com/klauspost/compress/gzip"
-	"github.com/segmentio/kafka-go/compress/gzip"
 )
 
 const (

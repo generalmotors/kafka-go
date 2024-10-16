@@ -23,8 +23,8 @@ import (
 	"os"
 
 	"github.com/Azure/azure-sdk-for-go/sdk/azidentity"
-	"github.com/segmentio/kafka-go"
-	"github.com/segmentio/kafka-go/sasl/azure_event_hubs_entra"
+	"github.com/generalmotors/kafka-go"
+	"github.com/generalmotors/kafka-go/sasl/azure_event_hubs_entra"
 )
 
 func main() {

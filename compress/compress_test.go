@@ -15,14 +15,14 @@ import (
 	"text/tabwriter"
 	"time"
 
+	"github.com/generalmotors/kafka-go"
+	pkg "github.com/generalmotors/kafka-go/compress"
+	"github.com/generalmotors/kafka-go/compress/gzip"
+	"github.com/generalmotors/kafka-go/compress/lz4"
+	"github.com/generalmotors/kafka-go/compress/snappy"
+	"github.com/generalmotors/kafka-go/compress/zstd"
+	ktesting "github.com/generalmotors/kafka-go/testing"
 	gz "github.com/klauspost/compress/gzip"
-	"github.com/segmentio/kafka-go"
-	pkg "github.com/segmentio/kafka-go/compress"
-	"github.com/segmentio/kafka-go/compress/gzip"
-	"github.com/segmentio/kafka-go/compress/lz4"
-	"github.com/segmentio/kafka-go/compress/snappy"
-	"github.com/segmentio/kafka-go/compress/zstd"
-	ktesting "github.com/segmentio/kafka-go/testing"
 )
 
 func init() {

@@ -7,7 +7,7 @@ import (
 
 	"github.com/Azure/azure-sdk-for-go/sdk/azcore"
 	"github.com/Azure/azure-sdk-for-go/sdk/azcore/policy"
-	"github.com/segmentio/kafka-go/sasl"
+	"github.com/generalmotors/kafka-go/sasl"
 )
 
 type Mechanism struct {

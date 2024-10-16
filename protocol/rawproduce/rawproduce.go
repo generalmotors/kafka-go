@@ -3,8 +3,8 @@ package rawproduce
 import (
 	"fmt"
 
-	"github.com/segmentio/kafka-go/protocol"
-	"github.com/segmentio/kafka-go/protocol/produce"
+	"github.com/generalmotors/kafka-go/protocol"
+	"github.com/generalmotors/kafka-go/protocol/produce"
 )
 
 func init() {

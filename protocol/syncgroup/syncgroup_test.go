@@ -3,8 +3,8 @@ package syncgroup_test
 import (
 	"testing"
 
-	"github.com/segmentio/kafka-go/protocol/prototest"
-	"github.com/segmentio/kafka-go/protocol/syncgroup"
+	"github.com/generalmotors/kafka-go/protocol/prototest"
+	"github.com/generalmotors/kafka-go/protocol/syncgroup"
 )
 
 func TestSyncGroupReq(t *testing.T) {
