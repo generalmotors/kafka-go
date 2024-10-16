@@ -4,5 +4,5 @@ go 1.15
 
 require (
 	github.com/aws/aws-sdk-go v1.41.3
-	github.com/generalmotors/kafka-go v0.1.2
+	github.com/generalmotors/kafka-go v0.1.4
 )

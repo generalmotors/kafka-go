@@ -6,6 +6,6 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.16.12
 	github.com/aws/aws-sdk-go-v2/config v1.17.2
 	github.com/aws/aws-sdk-go-v2/credentials v1.12.15
-	github.com/generalmotors/kafka-go v0.1.2
+	github.com/generalmotors/kafka-go v0.1.4
 	github.com/stretchr/testify v1.9.0
 )

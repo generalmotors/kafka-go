@@ -4,8 +4,8 @@ github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ3
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/generalmotors/kafka-go v0.1.2 h1:Gac0w56ivlFslVl6Evcy20ErJmtVjL5QtoK3y7+p28M=
-github.com/generalmotors/kafka-go v0.1.2/go.mod h1:VfsyP3IlkrKY9jV7GvfckBrHbsmp1ZKgDgnMoxae64w=
+github.com/generalmotors/kafka-go v0.1.4 h1:gVorsjmRVKPP3ep9UDkYd9QPSKq3ZrpSMHDz51Op9rQ=
+github.com/generalmotors/kafka-go v0.1.4/go.mod h1:VfsyP3IlkrKY9jV7GvfckBrHbsmp1ZKgDgnMoxae64w=
 github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
 github.com/jmespath/go-jmespath v0.4.0 h1:BEgLn5cpjn8UN1mAw4NjwDrS35OdebyEtFe+9YPoQUg=
 github.com/jmespath/go-jmespath v0.4.0/go.mod h1:T8mJZnbsbmF+m6zOOFylbeCJqk5+pHWvzYPziyZiYoo=
