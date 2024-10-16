@@ -16,8 +16,8 @@ github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dnaeon/go-vcr v1.2.0/go.mod h1:R4UdLID7HZT3taECzJs4YgbbH6PIGXB6W/sc5OLb6RQ=
-github.com/generalmotors/kafka-go v0.1.3 h1:Gac0w56ivlFslVl6Evcy20ErJmtVjL5QtoK3y7+p28M=
-github.com/generalmotors/kafka-go v0.1.3/go.mod h1:VfsyP3IlkrKY9jV7GvfckBrHbsmp1ZKgDgnMoxae64w=
+github.com/generalmotors/kafka-go v0.1.2 h1:Gac0w56ivlFslVl6Evcy20ErJmtVjL5QtoK3y7+p28M=
+github.com/generalmotors/kafka-go v0.1.2/go.mod h1:VfsyP3IlkrKY9jV7GvfckBrHbsmp1ZKgDgnMoxae64w=
 github.com/golang-jwt/jwt/v5 v5.0.0/go.mod h1:pqrtFR0X4osieyHYxtmOUWsAWrfe1Q5UVIyoH402zdk=
 github.com/golang-jwt/jwt/v5 v5.2.1/go.mod h1:pqrtFR0X4osieyHYxtmOUWsAWrfe1Q5UVIyoH402zdk=
 github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
